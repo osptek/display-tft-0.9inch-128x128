@@ -1,0 +1,10 @@
+id: YDP090BG002-V1
+category: displays
+size: "0.9"
+panel: tft
+resolution: 128x128
+interface: [spi]
+driver: ST7735
+touch: null
+outline: 25.24 x 27.14 mm
+active_area: 23.04 x 23.03 mm
